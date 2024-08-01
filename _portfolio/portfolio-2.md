@@ -1,6 +1,6 @@
 ---
 title: "Probabilistic Forecasting of Dengue Fever"
-excerpt: "Diffusion model for forecasting dengue outbreaks in Saigon <br/><img src='/images/dengue.jpg'>"
+excerpt: "Diffusion model for forecasting dengue outbreaks in Saigon<br/><img src='/images/dengue.jpg' style="width: 100%; max-width: 600px;">"
 collection: portfolio
 ---
 
