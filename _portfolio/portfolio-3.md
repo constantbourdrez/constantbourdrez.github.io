@@ -1,6 +1,6 @@
 ---
 title: "WildfAire"
-excerpt: "Final project for Le Wagon bootcamp<br/><img src='/images/wildfire.jpg' style="width: 100%; max-width: 600px;">"
+excerpt: "Final project for Le Wagon bootcamp<br/><img src='/images/wildfire.jpg'>"
 collection: portfolio
 ---
 
