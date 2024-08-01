@@ -1,12 +1,9 @@
 ---
-title: "Sleep stages classification using EOG"
-excerpt: "The goal of this project was to classify sleep stages using only EOG<br/><img src='/images/sleep_stage.png'>"
+title: "Probabilistic Forecasting of Dengue Fever"
+excerpt: "Diffusion model for forecasting dengue outbreaks in Saigon<br/><img src='/images/dengue.jpg' width="500" >"
 collection: portfolio
 ---
 
-## 💤 💤 💤
+## 🇻🇳🇻🇳🇻🇳
 
-For this group work, I developed a Best-RQ framework to classify sleep stages. I then trained several networks with this framework and compared the results between EOG only, EOG + EEG, EOG spectrograms. I also developed all the preprocessing scripts and the utils function (One of the network used was similar to [PainAttNet](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1294577/full). The results were not really conclusive due to an unbalanced data set, person dependent data and noisy data. Some ideas to improve this framework were suggested in our report, such as using networks with memory to decode the information, weighting the different classes, etc. You can find my work [here](https://github.com/constantbourdrez/adl24-sleep-stage).
-
-
-<br/><img src='/images/painatt.jpg'>
+This project was my master's thesis for ESPCI Paris-PSL. I combined time series and graphs to do probabilistic forecasting. As far as I know, it was the first time this type of model was used in epidemiology. The results were quite good, but the averages of the samples lacked precision. This project was a way to explore this kind of machine learning techniques in order to incorporate them into the Dengue Advanced Readiness Tool developed by OUCRU. You can find my work [here](https://github.com/constantbourdrez/Probabilistic_forecasting_DART).
