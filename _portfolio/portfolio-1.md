@@ -1,6 +1,6 @@
 ---
 title: "Sleep stages classification using EOG"
-excerpt: "The goal of this project was to classify sleep stages using only EOG<br/><img src='/images/sleep_stage.png' style="width: 100%; max-width: 600px;">">"
+excerpt: "The goal of this project was to classify sleep stages using only EOG<br/><img src='/images/sleep_stage.png' style="width: 100%; max-width: 600px;">"
 collection: portfolio
 ---
 
