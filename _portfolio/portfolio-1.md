@@ -1,9 +1,8 @@
----
-title: "Probabilistic Forecasting of Dengue Fever"
-excerpt: "Diffusion model for forecasting dengue outbreaks in Saigon<br/><img src='/images/dengue.jpg' width='500'>"
+title: "Enhancing GAN's performance via Discriminator Optimal Transport"
+excerpt: "The goal of this project was to increase the performance of a standard Vanilla GAN using several tricks in the latent space.<br/><img src='/images/ot.png' width='500'>"
 collection: portfolio
 ---
 
-## 🇻🇳🇻🇳🇻🇳
+## ⚔️⚔️⚖️⚖️
 
-This project was my master's thesis for ESPCI Paris-PSL. I combined time series and graphs to do probabilistic forecasting. As far as I know, it was the first time this type of model was used in epidemiology. The results were quite good, but the averages of the samples lacked precision. This project was a way to explore this kind of machine learning techniques in order to incorporate them into the Dengue Advanced Readiness Tool developed by OUCRU. You can find my work [here](https://github.com/constantbourdrez/Probabilistic_forecasting_DART).
+The goal of this project was to enhance the performance of a standard Vanilla GAN by applying various techniques in the latent space. Specifically, I incorporated **discriminator optimal transport**, leveraging it to stabilize training and improve the alignment between the generated and real data distributions. A key challenge addressed was balancing **precision** (generating realistic samples) and **recall** (capturing the full diversity of the target distribution), which are often at odds in generative models. The work focused on fine-tuning the latent space representation to achieve a more robust and diverse generative process. You can find my work [here](https://github.com/Master-IASD/assignment2-2024-ganglions).
