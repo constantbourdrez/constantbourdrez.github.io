@@ -1,5 +1,6 @@
+---
 title: "Enhancing GAN's performance via Discriminator Optimal Transport"
-excerpt: "The goal of this project was to increase the performance of a standard Vanilla GAN using several tricks in the latent space.<br/><img src='/images/ot.png' width='500'>"
+excerpt: "The goal of this project was to increase the performance of a standard Vanilla GAN using several tricks in the latent space.<br/><img src='/images/ot.png' width='500'>
 collection: portfolio
 ---
 
