@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏼‍💻 I'm a final year graduate student in Machine learning at ENS-PSL and Paris Dauphine University - PSL. Prior to that, I studied data science, physics and biotechnology atESPCI Paris-PSL.
+👨🏼‍💻 I'm a final year graduate student in Machine learning at ENS-PSL and Paris Dauphine University - PSL. Prior to that, I studied data science, physics and biotechnology at ESPCI Paris-PSL.
 
 🔬 My research interests are in the field of deep learning, reinforcement learning, speech processing, and computational cognitive (neuro)science, with a particular focus on interpretability.
 
