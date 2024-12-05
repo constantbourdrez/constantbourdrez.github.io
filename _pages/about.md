@@ -12,7 +12,7 @@ redirect_from:
 
 🔬 My research interests are in the field of deep learning, reinforcement learning, speech processing, and computational cognitive (neuro)science, with a particular focus on interpretability.
 
-🖥️ I'm currently looking for a internship for April 2025 that could lead to a potential PhD contract.
+🖥️ I'm currently looking for an internship for April 2025 that could lead to a potential PhD contract.
 
 # Few Highlights
 
