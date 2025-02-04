@@ -45,7 +45,3 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://banner2.cleanpng.com/20190601/ppr/kisspng-portable-network-graphics-soundcloud-logo-vector-g-orpheum-gothic-progressive-metal-epk-5cf31470af4f47.1306210515594343527181.jpg # can be png, svg, jpg
-  title: Soundcloud # the name of the social media
-  url: https://soundcloud.com/gali-constant
