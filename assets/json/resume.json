@@ -5,13 +5,13 @@
     "image": "",
     "email": "constant.bourdrez@dauphine.eu",
     "url": "https://constantbourdrez.github.io/",
-    "summary": "I am a Research Intern at Ecole Normale Supérieure working on generative models.",
+    "summary": "I am a Research Intern at École Normale Supérieure working on generative models.",
     "location": {
       "address": "9 rue Lacharrière",
       "postalCode": "75011",
       "city": "Paris",
       "countryCode": "FR",
-      "region": "Ile-de-France"
+      "region": "Île-de-France"
     },
     "profiles": [
       {
@@ -37,9 +37,8 @@
       "url": "https://www.deepki.com/fr/",
       "startDate": "2023-07-01",
       "endDate": "2023-12-18",
-      "summary": "Trained, validated and deployed a hierarchical Bayesian model. I studied the impact of climate change on building consumption using inverse modelling, MCMC and climate models.
-      I also implemented initial solutions for pattern recognition in load curves.",
-      "highlights": ["Hierarchical Bayesian Model", "Climate Change", "Inverse Modelling", "MCMC", "Climate Models", "Pattern Recognition"]
+      "summary": "Trained, validated, and deployed a hierarchical Bayesian model. I studied the impact of climate change on building consumption using inverse modeling, MCMC, and climate models. I also implemented initial solutions for pattern recognition in load curves.",
+      "highlights": ["Hierarchical Bayesian Model", "Climate Change", "Inverse Modeling", "MCMC", "Climate Models", "Pattern Recognition"]
     },
     {
       "name": "Institut Langevin, Paris, France",
@@ -47,22 +46,22 @@
       "url": "https://www.institut-langevin.espci.fr/home",
       "startDate": "2022-07-01",
       "endDate": "2022-08-01",
-      "summary": "Project: ‘Study of Faraday instability in a random environment’, supervised by Dr. Emmanuel Fort. I constructed and exploited an experimental setup, reconstructed surface waves via image and signal processing",
+      "summary": "Project: ‘Study of Faraday instability in a random environment’, supervised by Dr. Emmanuel Fort. I constructed and exploited an experimental setup and reconstructed surface waves via image and signal processing.",
       "highlights": ["Faraday Instability", "Random Environment", "Experimental Setup", "Image Processing", "Signal Processing"]
-    },{
+    },
+    {
       "name": "Lycée Henri-IV, Lycée Fénelon, IPESUP",
       "position": "Mathematics Oral Examiner",
       "url": "https://lycee-henri4.com/",
       "startDate": "2021-09-01",
       "endDate": "",
-      "summary": "I prepared students for the oral examination of the French Grandes Ecoles in Mathematics.",
+      "summary": "I prepared students for the oral examination of the French Grandes Écoles in Mathematics.",
       "highlights": ["Mathematics"]
     }
-
   ],
   "education": [
     {
-      "institution": "IASD Msc, PSL University",
+      "institution": "IASD MSc, PSL University",
       "location": "Paris, France",
       "url": "https://www.masteriasd.eu/en/",
       "area": "Machine Learning, Mathematics, Computer Science",
@@ -70,11 +69,12 @@
       "startDate": "2024-09-01",
       "endDate": "2025-08-31",
       "score": "",
-      "courses": ["Fundamentals of learning", "Optimal Transport", "Reinforcement Learning", "Optimization for
-      ML", "From Denoising to Data Generation", "Mathematics of Deep Learning", "Machine Learning with Kernel
-      Methods", "Point Clouds and 3D Modeling", "Statistical Physics and Machine Learning", "Large Language Models",
-      "Deep Learning for Image Analysis", "Monte-Carlo Search and Games", "Data Acquisition, Extraction and
-      Storage"]
+      "courses": [
+        "Fundamentals of Learning", "Optimal Transport", "Reinforcement Learning", "Optimization for ML",
+        "From Denoising to Data Generation", "Mathematics of Deep Learning", "Machine Learning with Kernel Methods",
+        "Point Clouds and 3D Modeling", "Statistical Physics and Machine Learning", "Large Language Models",
+        "Deep Learning for Image Analysis", "Monte-Carlo Search and Games", "Data Acquisition, Extraction and Storage"
+      ]
     },
     {
       "institution": "ESPCI Paris-PSL",
@@ -85,8 +85,11 @@
       "startDate": "2021-09-01",
       "endDate": "2024-08-31",
       "score": "3.86",
-      "courses": ["Mathematical and numerical methods", "Applied statistics", "Machine learning", "Advanced deep learning", "Advanced programming in C++", "Biochemistry",
-      "Cell biology","Medical imaging", "Neuroscience", "Waves and acoustics", "Quantum Mechanics"]
+      "courses": [
+        "Mathematical and Numerical Methods", "Applied Statistics", "Machine Learning", "Advanced Deep Learning",
+        "Advanced Programming in C++", "Biochemistry", "Cell Biology", "Medical Imaging", "Neuroscience",
+        "Waves and Acoustics", "Quantum Mechanics"
+      ]
     }
   ],
   "awards": [
@@ -95,7 +98,7 @@
       "date": "2024-09-01",
       "awarder": "PRAIRIE Institute",
       "url": "https://prairie-institute.fr/",
-      "summary": "3IA Pr[Ai]rie scholarship for the academic year 2024-2025 for the Ms-IASD programme awarded on academic criteria.'"
+      "summary": "3IA Pr[Ai]rie scholarship for the academic year 2024-2025 for the MSc-IASD program, awarded based on academic criteria."
     }
-  ],
+  ]
 }
