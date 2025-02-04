@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ENS & PSL-University, Departement d'Informatique.
+subtitle: ENS & PSL-University, Département d'Informatique.
 
 profile:
   align: right

@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - constantbourdrez
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - adl24-sleep-stage
+  - Probabilistic_forecasting_DART
+  - Optimal_Audio_Transport
+  - Master-IASD/assignment2-2024-ganglions
+
