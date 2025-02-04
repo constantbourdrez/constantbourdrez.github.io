@@ -6,7 +6,7 @@ subtitle: ENS & PSL-University, Département d'Informatique.
 
 profile:
   align: right
-  image: temp.JPG
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
