@@ -10,7 +10,7 @@ middle_name:
 last_name: Bourdrez
 email: constant.bourdrez@dauphine.eu
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to contact me is by e-mail :)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal webpage of Constant Bourdrez.
 footer_text: >
@@ -53,9 +53,6 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -90,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Constant Bourdrez # blog_name will be displayed in your blog page
+blog_description: Whatever I want
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
