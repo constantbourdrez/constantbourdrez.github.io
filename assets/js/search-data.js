@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-i-joined-the-iasd-master",
-          title: 'I joined the IASD Master !',
+    },{id: "news-test-1-2-1-2",
+          title: 'test 1 2 1 2',
           description: "",
           section: "News",},{
       id: 'light-theme',
