@@ -23,6 +23,15 @@
   },
   "work": [
     {
+    "name": "Centre des Sciences des Données, École Normale Supérieure, Paris, France",
+    "position": "Research Intern in Machine Learning",
+    "url": "https://csd.ens.psl.eu/",
+    "startDate": "2025-03-24",
+    "endDate": "Now",
+    "summary": "Optimizing diffusion models with inverse reinforcement learning. Supervised by Olivier Cappé and Alexandre Vérine.",
+    "highlights": ["Diffusion Models", "Reinforcement Learning", "Generative Modelling"]
+  },
+    {
       "name": "Oxford University Clinical Research Unit, Ho Chi Minh City, Vietnam",
       "position": "Research Intern in Machine Learning",
       "url": "https://www.oucru.org/research/mathematical-modelling/",
