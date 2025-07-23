@@ -46,7 +46,7 @@
       "url": "https://www.deepki.com/fr/",
       "startDate": "2023-07-01",
       "endDate": "2023-12-18",
-      "summary": "Trained, validated, and deployed a hierarchical Bayesian model. I studied the impact of climate change on building consumption using inverse modeling, MCMC, and climate models. I also implemented initial solutions for pattern recognition in load curves.",
+      "summary": "Developped algorithms to detect anomalies in energy consumption data of buildings. Supervised by Dr. Thimothée Thierry.",
       "highlights": ["Hierarchical Bayesian Model", "Climate Change", "Inverse Modeling", "MCMC", "Climate Models", "Pattern Recognition"]
     },
     {
@@ -63,8 +63,7 @@
       "position": "Mathematics Oral Examiner",
       "url": "https://lycee-henri4.com/",
       "startDate": "2021-09-01",
-      "endDate": "",
-      "summary": "I prepared students for the oral examination of the French Grandes Écoles in Mathematics.",
+      "endDate": "2025-07_15",
       "highlights": ["Mathematics"]
     }
   ],
@@ -92,13 +91,16 @@
       "area": "Computer Science, Biotechnology, Physics",
       "studyType": "MEng",
       "startDate": "2021-09-01",
-      "endDate": "2024-08-31",
-      "score": "3.86",
-      "courses": [
-        "Mathematical and Numerical Methods", "Applied Statistics", "Machine Learning", "Advanced Deep Learning",
-        "Advanced Programming in C++", "Biochemistry", "Cell Biology", "Medical Imaging", "Neuroscience",
-        "Waves and Acoustics", "Quantum Mechanics"
-      ]
+      "endDate": "2024-08-31"
+    },
+    {
+      "institution": "Lycée Henri-IV",
+      "location": "Paris, France",
+      "url": "https://lycee-henri4.com/",
+      "area": "Mathematics, Physics, Chemistry",
+      "studyType": "CPGE PCSI/PC* ",
+      "startDate": "2019-09-01",
+      "endDate": "2021-07-31"
     }
   ],
   "awards": [

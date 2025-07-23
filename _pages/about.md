@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ENS & PSL-University, Département d'Informatique.
+subtitle: ([DATA Team](https://www.di.ens.fr/data/)), Département d'Informatique, ENS & PSL-University.
 
 profile:
   align: right
