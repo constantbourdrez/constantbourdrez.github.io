@@ -24,10 +24,18 @@
   "work": [
     {
     "name": "Centre des Sciences des Données, École Normale Supérieure, Paris, France",
+    "position": "PhD Candidate in Machine Learning",
+    "url": "https://csd.ens.psl.eu/",
+    "startDate": "2025-10-01",
+    "endDate": "Now",
+    "highlights": ["Diffusion Models", "Privacy", "Generative Modelling", "Robustness"]
+  },
+    {
+    "name": "Centre des Sciences des Données, École Normale Supérieure, Paris, France",
     "position": "Research Intern in Machine Learning",
     "url": "https://csd.ens.psl.eu/",
     "startDate": "2025-03-24",
-    "endDate": "Now",
+    "endDate": "2025-08-31",
     "summary": "Optimizing diffusion models with inverse reinforcement learning. Supervised by Olivier Cappé and Alexandre Vérine.",
     "highlights": ["Diffusion Models", "Reinforcement Learning", "Generative Modelling"]
   },
@@ -68,6 +76,14 @@
     }
   ],
   "education": [
+    {
+      "institution": "Ecole Normale Supérieure, PSL University",
+      "location": "Paris, France",
+      "url": "https://csd.ens.psl.eu/",
+      "area": "Machine Learning, Mathematics, Computer Science",
+      "studyType": "MSc",
+      "startDate": "2025-09-01"
+    },
     {
       "institution": "IASD MSc, PSL University",
       "location": "Paris, France",
