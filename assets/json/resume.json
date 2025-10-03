@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Constant Bourdrez",
-    "label": "Researcher",
+    "label": "PhD Candidate in Machine Learning",
     "image": "",
-    "email": "constant.bourdrez@dauphine.eu",
+    "email": "constant.bourdrez@ens.psl.eu",
     "url": "https://constantbourdrez.github.io/",
-    "summary": "I am a Research Intern at École Normale Supérieure working on generative models.",
     "location": {
       "address": "9 rue Lacharrière",
       "postalCode": "75011",
@@ -55,7 +54,7 @@
       "startDate": "2023-07-01",
       "endDate": "2023-12-18",
       "summary": "Developped algorithms to detect anomalies in energy consumption data of buildings. Supervised by Dr. Thimothée Thierry.",
-      "highlights": ["Hierarchical Bayesian Model", "Climate Change", "Inverse Modeling", "MCMC", "Climate Models", "Pattern Recognition"]
+      "highlights": ["Hierarchical Bayesian Model", "Inverse Modeling", "MCMC"]
     },
     {
       "name": "Institut Langevin, Paris, France",
@@ -64,7 +63,7 @@
       "startDate": "2022-07-01",
       "endDate": "2022-08-01",
       "summary": "Project: ‘Study of Faraday instability in a random environment’, supervised by Dr. Emmanuel Fort. I constructed and exploited an experimental setup and reconstructed surface waves via image and signal processing.",
-      "highlights": ["Faraday Instability", "Random Environment", "Experimental Setup", "Image Processing", "Signal Processing"]
+      "highlights": ["Faraday Instability", "Image Processing", "Signal Processing"]
     },
     {
       "name": "Lycée Henri-IV, Lycée Fénelon, IPESUP",
@@ -81,7 +80,7 @@
       "location": "Paris, France",
       "url": "https://csd.ens.psl.eu/",
       "area": "Machine Learning, Mathematics, Computer Science",
-      "studyType": "MSc",
+      "studyType": "PhD",
       "startDate": "2025-09-01"
     },
     {
