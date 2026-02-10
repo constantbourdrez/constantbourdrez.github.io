@@ -15,6 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2>Publications</h2>
+{% bibliography%}
 
 </div>
