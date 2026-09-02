@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Coming soon!
+description: 
 nav: true
 nav_order: 2
 ---
@@ -15,7 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-<h2>Publications</h2>
 {% bibliography%}
 
 </div>
