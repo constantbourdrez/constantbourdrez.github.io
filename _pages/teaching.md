@@ -23,14 +23,14 @@ subtitle: ''
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center;"><a href="https://www.lamsade.dauphine.fr/~averine/DL3IASO/liens.html" target="_blank">Deep Learning II</a></td>
+      <td style="text-align: center;"><a href="https://www.di.ens.fr/~cbourdrez/deep-learning-2.html" target="_blank">Deep Learning II</a></td>
       <td style="text-align: center;">L3IASO</td>
       <td style="text-align: center;">B.S</td>
       <td style="text-align: center;">Lectures</td>
       <td style="text-align: center;">2026-2027</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><a href="https://www.lamsade.dauphine.fr/~averine/GenAI/liens.html" target="_blank">GenAI</a></td>
+      <td style="text-align: center;"><a href="https://www.di.ens.fr/~cbourdrez/genai.html" target="_blank">GenAI</a></td>
       <td style="text-align: center;">IASD App</td>
       <td style="text-align: center;">M.S</td>
       <td style="text-align: center;">Lectures</td>
