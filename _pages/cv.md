@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://constantbourdrez.github.io/assets/pdf/resume-Constant-bourdrez.pdf
 title: cv
 nav: true
 nav_order: 5
