@@ -10,3 +10,7 @@
 
 Preprint:
   color: "#1f77b4"   # blue
+
+"NeurIPS":
+  url: https://nips.cc/
+  color: "#ff7f0e"   # orange
