@@ -55,6 +55,9 @@ ninja.data = [{
     },{id: "news-new-preprint-out-learning-to-sample-from-diffusion-models-via-inverse-reinforcement-learning-where-we-proposed-a-principled-irl-framework-to-optimize-diffusion-sampling-strategies",
           title: 'New preprint out: Learning To Sample From Diffusion Models Via Inverse Reinforcement Learning,...',
           description: "",
+          section: "News",},{id: "news-our-paper-learning-to-sample-from-diffusion-models-via-inverse-reinforcement-learning-is-accepted-at-neurips-2026-see-you-in-sydney",
+          title: 'Our paper Learning To Sample From Diffusion Models Via Inverse Reinforcement Learning is...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
