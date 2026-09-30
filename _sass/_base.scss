@@ -739,6 +739,9 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
+          white-space: normal;
+          overflow-wrap: break-word;
+          text-align: center;
 
           a {
             color: white;
